@@ -13,7 +13,8 @@ body{
 .navbar-header .navbar-toggle:hover{
 	background-color:#ffffcc;
 }
-	
+
+
 #menu a{
 	color:#ffffcc;
 	text-align: center;
@@ -31,6 +32,7 @@ body{
 }
 .col-xs-12{
 	background-color: #ac3535;
+	font-size:1.3em;
 }
 
 
@@ -56,6 +58,7 @@ No media query for `xs` since this is the default in Bootstrap*/
 		margin-top: 12px;
 		margin-bottom: 0px;
 		color:#ffffcc;
+		
 	}
 }
 
