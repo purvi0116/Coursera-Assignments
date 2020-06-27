@@ -58,7 +58,7 @@ WARNING!!! WARNING!!!
     // in the loop. Otherwise, call helloSpeaker's 'speak' method with the current
     // name in the loop.
     
-    if (firstLetter=="j") {
+    if (firstLetter==="j") { //=== usage
       byeSpeaker.speak(names[idx]);
     } else {
       helloSpeaker.speak(names[idx])
